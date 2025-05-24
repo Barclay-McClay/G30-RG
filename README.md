@@ -42,8 +42,7 @@ Below is a detailed list of all of **G30-RG**’s systems, and how to use them:
 | Trivia | Text (questions & answers) | Display answer | New question | Main Menu | R: Question, G: Answer | Reads question/answer. |
 | Weather | Text (weather info) | Exit to home | Exit to home | Main Menu | G | Speaks weather |
 | AFL | Text (AFL info) | Discuss Essendon more | Change info that is displayed | Main Menu | R | Comments on Essendon’s AFL performance. |
-| Jokes | Text (setups & punchlines) | Get punchline | New joke | Main Menu | R: Setup,
-G: Punchline | Speaks jokes/punchlines. |
+| Jokes | Text (setups & punchlines) | Get punchline | New joke | Main Menu | R: Setup, G: Punchline | Speaks jokes/punchlines. |
 | 20 Questions | Text (Questions) | Respond “Yes” | Respond “No” | Main Menu | R: Thinking, G: Waiting |  |
 
 ---
